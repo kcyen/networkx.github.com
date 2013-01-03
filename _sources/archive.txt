@@ -1,4 +1,0 @@
-Documentation Archive
----------------------
-
-At http://networkx.lanl.gov/archive
